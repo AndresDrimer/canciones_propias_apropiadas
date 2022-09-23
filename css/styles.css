@@ -11458,6 +11458,9 @@ html {
   .masthead .masthead-subheading {
     font-size: 1.5rem;
   }
+  .masthead-avatar{
+    width: 20rem;
+  }
 }
 .portfolio .portfolio-item {
   cursor: pointer;
